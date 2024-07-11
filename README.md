@@ -1,2 +1,2 @@
 #Task manager based on Reactjs
-# project url:
+# project url:https://task-manager-mo.netlify.app/
